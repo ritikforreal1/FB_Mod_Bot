@@ -35,7 +35,7 @@ If any of those checks fail, it comments on the user notifying them of the probl
 * Improve documentation
 
 ### Caveats
-* Depending on how many posts you request at once (the `LIMIT` option in FQL queries), Facebook's API periodically just crashes and returns an internal server error. Fortunately this doesn't seem to happen unless you ask for extremely high numbers.
+* Depending osffdsfsf
 
 
 ## License
